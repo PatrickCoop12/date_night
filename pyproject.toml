@@ -1,0 +1,20 @@
+[project]
+name = "date_night"
+version = "0.1.0"
+description = "date-night using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.79.4,<1.0.0"
+]
+
+[project.scripts]
+date_night = "date_night.main:run"
+run_crew = "date_night.main:run"
+train = "date_night.main:train"
+replay = "date_night.main:replay"
+test = "date_night.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
