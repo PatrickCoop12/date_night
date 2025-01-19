@@ -1,6 +1,6 @@
 # DateNight Crew
 
-Welcome to the DateNight Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+Welcome to DateNight, your date night planning assistant. Life happens and time flies. Taking the time to plan out a thoughtful date can be time and resource intensive - conducting online searches to find activities or locations that suit the preferences of you and your date. DateNight is here to make things easy. Simply provide your assistant with a few preferences (location, cuisine, location ammenities, etc) and have a thoughtful date suited to you and your date's interest planned out on your behalf.
 
 ## Installation
 
